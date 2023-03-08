@@ -42,7 +42,7 @@ nav ul {
 	z-index: 2;
 	position: absolute;
 	font-size: 3rem;
-	left: 40%;
+	left: 50%;
 	top: 25%;
 	transform: translate(-50%, -25%);
 }
