@@ -9,7 +9,7 @@ const scene = new THREE.Scene();
 //Create our sphere
 const geometry = new THREE.SphereGeometry(3, 64, 64);
 const material = new THREE.MeshStandardMaterial({
-  color: "#D7B4F3",
+  color: "#66b2b2",
   roughness: 0.5,
 });
 const mesh = new THREE.Mesh(geometry, material);
